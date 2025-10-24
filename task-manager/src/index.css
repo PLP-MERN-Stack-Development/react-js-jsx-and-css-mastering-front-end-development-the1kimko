@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Improve dark mode text contrast */
+html[data-theme='dark'] {
+  --tw-prose-body: #6b88c3ff;
+  color: #e5e7eb;
+}
+
+body {
+  color: var(--tw-prose-body);
+}
