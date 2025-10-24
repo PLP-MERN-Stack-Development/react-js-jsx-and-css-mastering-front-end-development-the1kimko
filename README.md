@@ -6,13 +6,13 @@ A responsive Task Manager web application built with **React**, **Tailwind CSS**
 
 ## 📌 Deployed URL
 
-[View Live App](https://your-deployed-app-link.com)
+[View Live App](https://react-js-jsx-and-css-mastering-fron-rho.vercel.app/)
 
 ---
 
 ## 🖼 Screenshot
 
-![Task Manager Screenshot](./public/screenshot.png)
+![Task Manager Screenshot](./task-manager/public/screenshot.png)
 
 ---
 
